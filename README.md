@@ -49,3 +49,21 @@ Flicker-Free DC Dimming: Advanced 5kHz PWM frequency control via the MJE13005 tr
 Smart State Sync: Real-time synchronization between the physical environment and the cloud dashboard upon connection.
 
 مزامنة الحالة الذكية: مزامنة فورية بين الحالة الفعلية للمفاتيح ولوحة التحكم السحابية بمجرد الاتصال.
+
+Conclusion | خاتمة
+
+English:
+
+Sentri represents a successful integration of custom hardware logic and modern IoT cloud services. By balancing physical control with voice automation and safety-first programming, this project serves as a robust, completed solution for smart home management.
+
+Note from the Developer:
+
+This project was fully designed and coded by a 16-year-old student with a passion for engineering and automation. It stands as a testament that with curiosity and the right tools, innovation has no age limit.
+
+بالعربية:
+
+يمثل مشروع "سنتري" نموذجاً ناجحاً للدمج بين منطق العتاد المخصص وخدمات السحاب الذكية الحديثة. من خلال الموازنة بين التحكم الفيزيائي والأتمتة الصوتية، ومعايير البرمجة التي تضع الأمان أولاً، يعد هذا المشروع حلاً متكاملاً وقوياً لإدارة المنزل الذكي.
+
+كلمة من المطور:
+
+تم تصميم وبرمجة هذا المشروع بالكامل من قبل طالب في السادسة عشرة من عمره، مدفوعاً بالشغف بالهندسة والأتمتة؛ ليكون دليلاً على أن الابتكار لا يعرف حدوداً عمرية متى ما توفر الطموح والأدوات الصحيحة.
