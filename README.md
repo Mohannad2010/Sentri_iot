@@ -1,5 +1,7 @@
 Sentri: Smart Logic Home Controller 🛡️
+
 نظام "سنتري" للتحكم المنزلي بالمنطق الذكي
+
 📖 Overview | نظرة عامة
 English:
 
