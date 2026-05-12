@@ -33,8 +33,19 @@ All Mode: One-touch activation for the entire system (All lights & sockets ON).
 وضع الكل: تفعيل بلمسة واحدة لجميع أجزاء النظام (كل الأضواء والمقابس تعمل).
 
 🛠️ Technical Highlights | مميزات تقنية
+
 Dual-Layer Control: Integrated with Arduino IoT Cloud for voice control (Siri/Google Home) and physical switches for local reliability.
 
-Safety Isolation: Uses high-impedance mode (INPUT_PULLUP) on inactive relays to ensure zero current leakage.
+تحكم ثنائي الطبقات: متكامل مع سحابة أردوينو للتحكم الصوتي عبر (سيري وجوجل هوم)، مع مفاتيح فيزيائية لضمان الموثوقية والعمل محلياً حتى عند انقطاع الإنترنت.
 
-Flicker-Free Dimming: 5kHz PWM frequency via MJE13005 for smooth DC LED control.
+Safety Isolation Logic: Uses high-impedance mode (INPUT_PULLUP) on inactive relays to ensure zero current leakage and prevent "ghost" triggering.
+
+منطق العزل الآمن: يستخدم وضع المقاومة العالية (INPUT_PULLUP) على الريليهات غير النشطة لضمان عدم وجود أي تسريب للتيار ومنع التشغيل العشوائي.
+
+Flicker-Free DC Dimming: Advanced 5kHz PWM frequency control via the MJE13005 transistor for smooth, professional LED strip transitions.
+
+تعتيم تيار مستمر بدون وميض: تحكم متقدم بتردد 5 كيلو هرتز (PWM) عبر ترانزستور MJE13005 لضمان انتقال ناعم واحترافي لسطوع أشرطة اللد.
+
+Smart State Sync: Real-time synchronization between the physical environment and the cloud dashboard upon connection.
+
+مزامنة الحالة الذكية: مزامنة فورية بين الحالة الفعلية للمفاتيح ولوحة التحكم السحابية بمجرد الاتصال.
