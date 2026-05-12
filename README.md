@@ -50,6 +50,25 @@ Smart State Sync: Real-time synchronization between the physical environment and
 
 مزامنة الحالة الذكية: مزامنة فورية بين الحالة الفعلية للمفاتيح ولوحة التحكم السحابية بمجرد الاتصال.
 
+📦 Required Libraries | المكتبات المطلوبة
+
+English: Before uploading the code, ensure you have installed the following libraries via the Arduino Library Manager:
+
+WiFiManager (by tablatronix)
+
+ArduinoIoTCloud (by Arduino)
+
+Arduino_ConnectionHandler (by Arduino)
+
+
+بالعربية: قبل رفع الكود، تأكد من تثبيت المكتبات التالية عبر مدير المكتبات في أردوينو (Library Manager):
+
+WiFiManager
+
+ArduinoIoTCloud
+
+Arduino_ConnectionHandler
+
 Conclusion | خاتمة
 
 English:
